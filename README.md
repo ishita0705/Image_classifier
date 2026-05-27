@@ -15,12 +15,13 @@ Classify any image into 1000 ImageNet categories using Google's Vision Transform
 ## 📸 Screenshots
 
 **Upload an image:**
+![Uploading image_url.png…]()
 
-![Upload Tab](screenshot1.png)
 
 **Classify from URL:**
 
-![URL Tab](screenshot2.png)
+<img width="1918" height="1086" alt="image" src="https://github.com/user-attachments/assets/04a09a30-45d3-4efe-b567-efde354ec47b" />
+
 
 ---
 
